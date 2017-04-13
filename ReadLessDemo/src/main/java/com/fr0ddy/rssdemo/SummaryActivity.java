@@ -4,6 +4,7 @@ package com.fr0ddy.rssdemo;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
+import android.text.method.ScrollingMovementMethod;
 import android.util.Log;
 import android.webkit.WebView;
 import android.widget.TextView;
@@ -66,6 +67,7 @@ public class SummaryActivity extends Activity{
                                     try {
                                         TextView myTextView = (TextView) findViewById(R.id.SummaryView);
                                         myTextView.setText(content);
+                                        myTextView.setMovementMethod(ScrollingMovementMethod.getInstance());
                                     } catch (Exception e) {
                                         e.printStackTrace();
                                     }
