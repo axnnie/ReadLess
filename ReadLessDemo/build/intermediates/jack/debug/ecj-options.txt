@@ -1,0 +1,6 @@
+"C:/Users/Angela/AndroidStudioProjects/SummIt/ReadLessDemo/src/main/java/com/fr0ddy/rssdemo/ArticleActivity.java"
+"C:/Users/Angela/AndroidStudioProjects/SummIt/ReadLessDemo/src/main/java/com/fr0ddy/rssdemo/MainActivity.java"
+"C:/Users/Angela/AndroidStudioProjects/SummIt/ReadLessDemo/src/main/java/com/fr0ddy/rssdemo/SummaryActivity.java"
+"C:/Users/Angela/AndroidStudioProjects/SummIt/ReadLessDemo/build/generated/source/r/debug/android/support/constraint/R.java"
+"C:/Users/Angela/AndroidStudioProjects/SummIt/ReadLessDemo/build/generated/source/r/debug/com/fr0ddy/rssdemo/R.java"
+"C:/Users/Angela/AndroidStudioProjects/SummIt/ReadLessDemo/build/generated/source/buildConfig/debug/com/fr0ddy/rssdemo/BuildConfig.java"

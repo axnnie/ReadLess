@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\frede\AndroidStudioProjects\Simplistic-RSS-Demo-master4\simplisticRSSDemomaster\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\frede\AndroidStudioProjects\Simplistic-RSS-Demo-master4\simplisticRSSDemomaster\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_89be282300a4691a39a4bd25efcf6cfe96a20f60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\frede\AndroidStudioProjects\Simplistic-RSS-Demo-master4\simplisticRSSDemomaster\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ef91fc8bf1d5dda7afd6c6c680922b6a148d228">
+        <dex dex="C:\Users\frede\AndroidStudioProjects\Simplistic-RSS-Demo-master4\simplisticRSSDemomaster\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e93460bcec9ca697ec8003cc8806c376a3b31738\classes.dex" />
+    </item>
+
+</items>
