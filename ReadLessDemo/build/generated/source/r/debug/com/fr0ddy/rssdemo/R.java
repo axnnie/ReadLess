@@ -497,50 +497,50 @@ containing a value of this type.
            <tr><td><code>{@link #ConstraintLayout_Layout_android_minHeight android:minHeight}</code></td><td></td></tr>
            <tr><td><code>{@link #ConstraintLayout_Layout_android_minWidth android:minWidth}</code></td><td></td></tr>
            <tr><td><code>{@link #ConstraintLayout_Layout_android_orientation android:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet com.shirwa.rssdemo:constraintSet}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator com.shirwa.rssdemo:layout_constraintBaseline_creator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf com.shirwa.rssdemo:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator com.shirwa.rssdemo:layout_constraintBottom_creator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf com.shirwa.rssdemo:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf com.shirwa.rssdemo:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio com.shirwa.rssdemo:layout_constraintDimensionRatio}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf com.shirwa.rssdemo:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf com.shirwa.rssdemo:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin com.shirwa.rssdemo:layout_constraintGuide_begin}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end com.shirwa.rssdemo:layout_constraintGuide_end}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent com.shirwa.rssdemo:layout_constraintGuide_percent}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default com.shirwa.rssdemo:layout_constraintHeight_default}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max com.shirwa.rssdemo:layout_constraintHeight_max}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min com.shirwa.rssdemo:layout_constraintHeight_min}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias com.shirwa.rssdemo:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle com.shirwa.rssdemo:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight com.shirwa.rssdemo:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator com.shirwa.rssdemo:layout_constraintLeft_creator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf com.shirwa.rssdemo:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf com.shirwa.rssdemo:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator com.shirwa.rssdemo:layout_constraintRight_creator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf com.shirwa.rssdemo:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf com.shirwa.rssdemo:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf com.shirwa.rssdemo:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf com.shirwa.rssdemo:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator com.shirwa.rssdemo:layout_constraintTop_creator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf com.shirwa.rssdemo:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf com.shirwa.rssdemo:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias com.shirwa.rssdemo:layout_constraintVertical_bias}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle com.shirwa.rssdemo:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight com.shirwa.rssdemo:layout_constraintVertical_weight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default com.shirwa.rssdemo:layout_constraintWidth_default}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max com.shirwa.rssdemo:layout_constraintWidth_max}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min com.shirwa.rssdemo:layout_constraintWidth_min}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX com.shirwa.rssdemo:layout_editor_absoluteX}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY com.shirwa.rssdemo:layout_editor_absoluteY}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom com.shirwa.rssdemo:layout_goneMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd com.shirwa.rssdemo:layout_goneMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft com.shirwa.rssdemo:layout_goneMarginLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight com.shirwa.rssdemo:layout_goneMarginRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart com.shirwa.rssdemo:layout_goneMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop com.shirwa.rssdemo:layout_goneMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel com.shirwa.rssdemo:layout_optimizationLevel}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet com.fr0ddy.readless:constraintSet}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator com.fr0ddy.readless:layout_constraintBaseline_creator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf com.fr0ddy.readless:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator com.fr0ddy.readless:layout_constraintBottom_creator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf com.fr0ddy.readless:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf com.fr0ddy.readless:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio com.fr0ddy.readless:layout_constraintDimensionRatio}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf com.fr0ddy.readless:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf com.fr0ddy.readless:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin com.fr0ddy.readless:layout_constraintGuide_begin}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end com.fr0ddy.readless:layout_constraintGuide_end}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent com.fr0ddy.readless:layout_constraintGuide_percent}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default com.fr0ddy.readless:layout_constraintHeight_default}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max com.fr0ddy.readless:layout_constraintHeight_max}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min com.fr0ddy.readless:layout_constraintHeight_min}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias com.fr0ddy.readless:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle com.fr0ddy.readless:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight com.fr0ddy.readless:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator com.fr0ddy.readless:layout_constraintLeft_creator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf com.fr0ddy.readless:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf com.fr0ddy.readless:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator com.fr0ddy.readless:layout_constraintRight_creator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf com.fr0ddy.readless:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf com.fr0ddy.readless:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf com.fr0ddy.readless:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf com.fr0ddy.readless:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator com.fr0ddy.readless:layout_constraintTop_creator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf com.fr0ddy.readless:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf com.fr0ddy.readless:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias com.fr0ddy.readless:layout_constraintVertical_bias}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle com.fr0ddy.readless:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight com.fr0ddy.readless:layout_constraintVertical_weight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default com.fr0ddy.readless:layout_constraintWidth_default}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max com.fr0ddy.readless:layout_constraintWidth_max}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min com.fr0ddy.readless:layout_constraintWidth_min}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX com.fr0ddy.readless:layout_editor_absoluteX}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY com.fr0ddy.readless:layout_editor_absoluteY}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom com.fr0ddy.readless:layout_goneMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd com.fr0ddy.readless:layout_goneMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft com.fr0ddy.readless:layout_goneMarginLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight com.fr0ddy.readless:layout_goneMarginRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart com.fr0ddy.readless:layout_goneMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop com.fr0ddy.readless:layout_goneMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel com.fr0ddy.readless:layout_optimizationLevel}</code></td><td></td></tr>
            </table>
            @see #ConstraintLayout_Layout_android_maxHeight
            @see #ConstraintLayout_Layout_android_maxWidth
@@ -638,17 +638,17 @@ containing a value of this type.
         */
         public static final int ConstraintLayout_Layout_android_orientation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#constraintSet}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#constraintSet}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.shirwa.rssdemo:constraintSet
+          @attr name com.fr0ddy.readless:constraintSet
         */
         public static final int ConstraintLayout_Layout_constraintSet = 5;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintBaseline_creator}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintBaseline_creator}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -658,11 +658,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_constraintBaseline_creator
+          @attr name com.fr0ddy.readless:layout_constraintBaseline_creator
         */
         public static final int ConstraintLayout_Layout_layout_constraintBaseline_creator = 6;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintBaseline_toBaselineOf}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintBaseline_toBaselineOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -676,11 +676,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.shirwa.rssdemo:layout_constraintBaseline_toBaselineOf
+          @attr name com.fr0ddy.readless:layout_constraintBaseline_toBaselineOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf = 7;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintBottom_creator}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintBottom_creator}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -690,11 +690,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_constraintBottom_creator
+          @attr name com.fr0ddy.readless:layout_constraintBottom_creator
         */
         public static final int ConstraintLayout_Layout_layout_constraintBottom_creator = 8;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintBottom_toBottomOf}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintBottom_toBottomOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -708,11 +708,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.shirwa.rssdemo:layout_constraintBottom_toBottomOf
+          @attr name com.fr0ddy.readless:layout_constraintBottom_toBottomOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintBottom_toBottomOf = 9;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintBottom_toTopOf}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintBottom_toTopOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -726,11 +726,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.shirwa.rssdemo:layout_constraintBottom_toTopOf
+          @attr name com.fr0ddy.readless:layout_constraintBottom_toTopOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintBottom_toTopOf = 10;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintDimensionRatio}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintDimensionRatio}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -740,11 +740,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_constraintDimensionRatio
+          @attr name com.fr0ddy.readless:layout_constraintDimensionRatio
         */
         public static final int ConstraintLayout_Layout_layout_constraintDimensionRatio = 11;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintEnd_toEndOf}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintEnd_toEndOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -758,11 +758,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.shirwa.rssdemo:layout_constraintEnd_toEndOf
+          @attr name com.fr0ddy.readless:layout_constraintEnd_toEndOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintEnd_toEndOf = 12;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintEnd_toStartOf}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintEnd_toStartOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -776,11 +776,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.shirwa.rssdemo:layout_constraintEnd_toStartOf
+          @attr name com.fr0ddy.readless:layout_constraintEnd_toStartOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintEnd_toStartOf = 13;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintGuide_begin}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintGuide_begin}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -792,11 +792,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_constraintGuide_begin
+          @attr name com.fr0ddy.readless:layout_constraintGuide_begin
         */
         public static final int ConstraintLayout_Layout_layout_constraintGuide_begin = 14;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintGuide_end}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintGuide_end}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -808,11 +808,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_constraintGuide_end
+          @attr name com.fr0ddy.readless:layout_constraintGuide_end
         */
         public static final int ConstraintLayout_Layout_layout_constraintGuide_end = 15;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintGuide_percent}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintGuide_percent}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -822,11 +822,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_constraintGuide_percent
+          @attr name com.fr0ddy.readless:layout_constraintGuide_percent
         */
         public static final int ConstraintLayout_Layout_layout_constraintGuide_percent = 16;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintHeight_default}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintHeight_default}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -839,11 +839,11 @@ containing a value of this type.
 <tr><td><code>spread</code></td><td>0</td><td></td></tr>
 <tr><td><code>wrap</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.shirwa.rssdemo:layout_constraintHeight_default
+          @attr name com.fr0ddy.readless:layout_constraintHeight_default
         */
         public static final int ConstraintLayout_Layout_layout_constraintHeight_default = 17;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintHeight_max}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintHeight_max}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -855,11 +855,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_constraintHeight_max
+          @attr name com.fr0ddy.readless:layout_constraintHeight_max
         */
         public static final int ConstraintLayout_Layout_layout_constraintHeight_max = 18;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintHeight_min}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintHeight_min}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -871,11 +871,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_constraintHeight_min
+          @attr name com.fr0ddy.readless:layout_constraintHeight_min
         */
         public static final int ConstraintLayout_Layout_layout_constraintHeight_min = 19;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintHorizontal_bias}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintHorizontal_bias}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -885,11 +885,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_constraintHorizontal_bias
+          @attr name com.fr0ddy.readless:layout_constraintHorizontal_bias
         */
         public static final int ConstraintLayout_Layout_layout_constraintHorizontal_bias = 20;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintHorizontal_chainStyle}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintHorizontal_chainStyle}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -903,11 +903,11 @@ containing a value of this type.
 <tr><td><code>spread_inside</code></td><td>1</td><td></td></tr>
 <tr><td><code>packed</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.shirwa.rssdemo:layout_constraintHorizontal_chainStyle
+          @attr name com.fr0ddy.readless:layout_constraintHorizontal_chainStyle
         */
         public static final int ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle = 21;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintHorizontal_weight}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintHorizontal_weight}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -917,11 +917,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_constraintHorizontal_weight
+          @attr name com.fr0ddy.readless:layout_constraintHorizontal_weight
         */
         public static final int ConstraintLayout_Layout_layout_constraintHorizontal_weight = 22;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintLeft_creator}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintLeft_creator}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -931,11 +931,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_constraintLeft_creator
+          @attr name com.fr0ddy.readless:layout_constraintLeft_creator
         */
         public static final int ConstraintLayout_Layout_layout_constraintLeft_creator = 23;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintLeft_toLeftOf}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintLeft_toLeftOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -949,11 +949,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.shirwa.rssdemo:layout_constraintLeft_toLeftOf
+          @attr name com.fr0ddy.readless:layout_constraintLeft_toLeftOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintLeft_toLeftOf = 24;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintLeft_toRightOf}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintLeft_toRightOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -967,11 +967,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.shirwa.rssdemo:layout_constraintLeft_toRightOf
+          @attr name com.fr0ddy.readless:layout_constraintLeft_toRightOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintLeft_toRightOf = 25;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintRight_creator}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintRight_creator}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -981,11 +981,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_constraintRight_creator
+          @attr name com.fr0ddy.readless:layout_constraintRight_creator
         */
         public static final int ConstraintLayout_Layout_layout_constraintRight_creator = 26;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintRight_toLeftOf}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintRight_toLeftOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -999,11 +999,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.shirwa.rssdemo:layout_constraintRight_toLeftOf
+          @attr name com.fr0ddy.readless:layout_constraintRight_toLeftOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintRight_toLeftOf = 27;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintRight_toRightOf}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintRight_toRightOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -1017,11 +1017,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.shirwa.rssdemo:layout_constraintRight_toRightOf
+          @attr name com.fr0ddy.readless:layout_constraintRight_toRightOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintRight_toRightOf = 28;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintStart_toEndOf}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintStart_toEndOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -1035,11 +1035,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.shirwa.rssdemo:layout_constraintStart_toEndOf
+          @attr name com.fr0ddy.readless:layout_constraintStart_toEndOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintStart_toEndOf = 29;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintStart_toStartOf}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintStart_toStartOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -1053,11 +1053,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.shirwa.rssdemo:layout_constraintStart_toStartOf
+          @attr name com.fr0ddy.readless:layout_constraintStart_toStartOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintStart_toStartOf = 30;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintTop_creator}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintTop_creator}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -1067,11 +1067,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_constraintTop_creator
+          @attr name com.fr0ddy.readless:layout_constraintTop_creator
         */
         public static final int ConstraintLayout_Layout_layout_constraintTop_creator = 31;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintTop_toBottomOf}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintTop_toBottomOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -1085,11 +1085,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.shirwa.rssdemo:layout_constraintTop_toBottomOf
+          @attr name com.fr0ddy.readless:layout_constraintTop_toBottomOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintTop_toBottomOf = 32;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintTop_toTopOf}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintTop_toTopOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -1103,11 +1103,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.shirwa.rssdemo:layout_constraintTop_toTopOf
+          @attr name com.fr0ddy.readless:layout_constraintTop_toTopOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintTop_toTopOf = 33;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintVertical_bias}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintVertical_bias}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -1117,11 +1117,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_constraintVertical_bias
+          @attr name com.fr0ddy.readless:layout_constraintVertical_bias
         */
         public static final int ConstraintLayout_Layout_layout_constraintVertical_bias = 34;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintVertical_chainStyle}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintVertical_chainStyle}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -1135,11 +1135,11 @@ containing a value of this type.
 <tr><td><code>spread_inside</code></td><td>1</td><td></td></tr>
 <tr><td><code>packed</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.shirwa.rssdemo:layout_constraintVertical_chainStyle
+          @attr name com.fr0ddy.readless:layout_constraintVertical_chainStyle
         */
         public static final int ConstraintLayout_Layout_layout_constraintVertical_chainStyle = 35;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintVertical_weight}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintVertical_weight}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -1149,11 +1149,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_constraintVertical_weight
+          @attr name com.fr0ddy.readless:layout_constraintVertical_weight
         */
         public static final int ConstraintLayout_Layout_layout_constraintVertical_weight = 36;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintWidth_default}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintWidth_default}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -1166,11 +1166,11 @@ containing a value of this type.
 <tr><td><code>spread</code></td><td>0</td><td></td></tr>
 <tr><td><code>wrap</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.shirwa.rssdemo:layout_constraintWidth_default
+          @attr name com.fr0ddy.readless:layout_constraintWidth_default
         */
         public static final int ConstraintLayout_Layout_layout_constraintWidth_default = 37;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintWidth_max}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintWidth_max}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -1182,11 +1182,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_constraintWidth_max
+          @attr name com.fr0ddy.readless:layout_constraintWidth_max
         */
         public static final int ConstraintLayout_Layout_layout_constraintWidth_max = 38;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintWidth_min}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintWidth_min}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -1198,11 +1198,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_constraintWidth_min
+          @attr name com.fr0ddy.readless:layout_constraintWidth_min
         */
         public static final int ConstraintLayout_Layout_layout_constraintWidth_min = 39;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_editor_absoluteX}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_editor_absoluteX}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -1214,11 +1214,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_editor_absoluteX
+          @attr name com.fr0ddy.readless:layout_editor_absoluteX
         */
         public static final int ConstraintLayout_Layout_layout_editor_absoluteX = 40;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_editor_absoluteY}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_editor_absoluteY}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -1230,11 +1230,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_editor_absoluteY
+          @attr name com.fr0ddy.readless:layout_editor_absoluteY
         */
         public static final int ConstraintLayout_Layout_layout_editor_absoluteY = 41;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_goneMarginBottom}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_goneMarginBottom}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -1246,11 +1246,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_goneMarginBottom
+          @attr name com.fr0ddy.readless:layout_goneMarginBottom
         */
         public static final int ConstraintLayout_Layout_layout_goneMarginBottom = 42;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_goneMarginEnd}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_goneMarginEnd}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -1262,11 +1262,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_goneMarginEnd
+          @attr name com.fr0ddy.readless:layout_goneMarginEnd
         */
         public static final int ConstraintLayout_Layout_layout_goneMarginEnd = 43;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_goneMarginLeft}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_goneMarginLeft}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -1278,11 +1278,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_goneMarginLeft
+          @attr name com.fr0ddy.readless:layout_goneMarginLeft
         */
         public static final int ConstraintLayout_Layout_layout_goneMarginLeft = 44;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_goneMarginRight}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_goneMarginRight}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -1294,11 +1294,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_goneMarginRight
+          @attr name com.fr0ddy.readless:layout_goneMarginRight
         */
         public static final int ConstraintLayout_Layout_layout_goneMarginRight = 45;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_goneMarginStart}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_goneMarginStart}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -1310,11 +1310,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_goneMarginStart
+          @attr name com.fr0ddy.readless:layout_goneMarginStart
         */
         public static final int ConstraintLayout_Layout_layout_goneMarginStart = 46;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_goneMarginTop}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_goneMarginTop}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -1326,11 +1326,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_goneMarginTop
+          @attr name com.fr0ddy.readless:layout_goneMarginTop
         */
         public static final int ConstraintLayout_Layout_layout_goneMarginTop = 47;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_optimizationLevel}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_optimizationLevel}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -1345,7 +1345,7 @@ containing a value of this type.
 <tr><td><code>basic</code></td><td>4</td><td></td></tr>
 <tr><td><code>chains</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name com.shirwa.rssdemo:layout_optimizationLevel
+          @attr name com.fr0ddy.readless:layout_optimizationLevel
         */
         public static final int ConstraintLayout_Layout_layout_optimizationLevel = 48;
         /** Attributes that can be used with a ConstraintSet.
@@ -1376,48 +1376,48 @@ containing a value of this type.
            <tr><td><code>{@link #ConstraintSet_android_translationY android:translationY}</code></td><td></td></tr>
            <tr><td><code>{@link #ConstraintSet_android_translationZ android:translationZ}</code></td><td></td></tr>
            <tr><td><code>{@link #ConstraintSet_android_visibility android:visibility}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator com.shirwa.rssdemo:layout_constraintBaseline_creator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf com.shirwa.rssdemo:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator com.shirwa.rssdemo:layout_constraintBottom_creator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf com.shirwa.rssdemo:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf com.shirwa.rssdemo:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio com.shirwa.rssdemo:layout_constraintDimensionRatio}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf com.shirwa.rssdemo:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf com.shirwa.rssdemo:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin com.shirwa.rssdemo:layout_constraintGuide_begin}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end com.shirwa.rssdemo:layout_constraintGuide_end}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent com.shirwa.rssdemo:layout_constraintGuide_percent}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default com.shirwa.rssdemo:layout_constraintHeight_default}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max com.shirwa.rssdemo:layout_constraintHeight_max}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min com.shirwa.rssdemo:layout_constraintHeight_min}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias com.shirwa.rssdemo:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle com.shirwa.rssdemo:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight com.shirwa.rssdemo:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator com.shirwa.rssdemo:layout_constraintLeft_creator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf com.shirwa.rssdemo:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf com.shirwa.rssdemo:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator com.shirwa.rssdemo:layout_constraintRight_creator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf com.shirwa.rssdemo:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf com.shirwa.rssdemo:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf com.shirwa.rssdemo:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf com.shirwa.rssdemo:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator com.shirwa.rssdemo:layout_constraintTop_creator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf com.shirwa.rssdemo:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf com.shirwa.rssdemo:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias com.shirwa.rssdemo:layout_constraintVertical_bias}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle com.shirwa.rssdemo:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight com.shirwa.rssdemo:layout_constraintVertical_weight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default com.shirwa.rssdemo:layout_constraintWidth_default}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max com.shirwa.rssdemo:layout_constraintWidth_max}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min com.shirwa.rssdemo:layout_constraintWidth_min}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX com.shirwa.rssdemo:layout_editor_absoluteX}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY com.shirwa.rssdemo:layout_editor_absoluteY}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom com.shirwa.rssdemo:layout_goneMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd com.shirwa.rssdemo:layout_goneMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft com.shirwa.rssdemo:layout_goneMarginLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight com.shirwa.rssdemo:layout_goneMarginRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart com.shirwa.rssdemo:layout_goneMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop com.shirwa.rssdemo:layout_goneMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator com.fr0ddy.readless:layout_constraintBaseline_creator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf com.fr0ddy.readless:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator com.fr0ddy.readless:layout_constraintBottom_creator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf com.fr0ddy.readless:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf com.fr0ddy.readless:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio com.fr0ddy.readless:layout_constraintDimensionRatio}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf com.fr0ddy.readless:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf com.fr0ddy.readless:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin com.fr0ddy.readless:layout_constraintGuide_begin}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end com.fr0ddy.readless:layout_constraintGuide_end}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent com.fr0ddy.readless:layout_constraintGuide_percent}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default com.fr0ddy.readless:layout_constraintHeight_default}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max com.fr0ddy.readless:layout_constraintHeight_max}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min com.fr0ddy.readless:layout_constraintHeight_min}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias com.fr0ddy.readless:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle com.fr0ddy.readless:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight com.fr0ddy.readless:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator com.fr0ddy.readless:layout_constraintLeft_creator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf com.fr0ddy.readless:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf com.fr0ddy.readless:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator com.fr0ddy.readless:layout_constraintRight_creator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf com.fr0ddy.readless:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf com.fr0ddy.readless:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf com.fr0ddy.readless:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf com.fr0ddy.readless:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator com.fr0ddy.readless:layout_constraintTop_creator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf com.fr0ddy.readless:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf com.fr0ddy.readless:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias com.fr0ddy.readless:layout_constraintVertical_bias}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle com.fr0ddy.readless:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight com.fr0ddy.readless:layout_constraintVertical_weight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default com.fr0ddy.readless:layout_constraintWidth_default}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max com.fr0ddy.readless:layout_constraintWidth_max}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min com.fr0ddy.readless:layout_constraintWidth_min}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX com.fr0ddy.readless:layout_editor_absoluteX}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY com.fr0ddy.readless:layout_editor_absoluteY}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom com.fr0ddy.readless:layout_goneMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd com.fr0ddy.readless:layout_goneMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft com.fr0ddy.readless:layout_goneMarginLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight com.fr0ddy.readless:layout_goneMarginRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart com.fr0ddy.readless:layout_goneMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop com.fr0ddy.readless:layout_goneMarginTop}</code></td><td></td></tr>
            </table>
            @see #ConstraintSet_android_alpha
            @see #ConstraintSet_android_elevation
@@ -1635,7 +1635,7 @@ containing a value of this type.
         */
         public static final int ConstraintSet_android_visibility = 2;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintBaseline_creator}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintBaseline_creator}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -1645,11 +1645,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_constraintBaseline_creator
+          @attr name com.fr0ddy.readless:layout_constraintBaseline_creator
         */
         public static final int ConstraintSet_layout_constraintBaseline_creator = 22;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintBaseline_toBaselineOf}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintBaseline_toBaselineOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -1663,11 +1663,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.shirwa.rssdemo:layout_constraintBaseline_toBaselineOf
+          @attr name com.fr0ddy.readless:layout_constraintBaseline_toBaselineOf
         */
         public static final int ConstraintSet_layout_constraintBaseline_toBaselineOf = 23;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintBottom_creator}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintBottom_creator}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -1677,11 +1677,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_constraintBottom_creator
+          @attr name com.fr0ddy.readless:layout_constraintBottom_creator
         */
         public static final int ConstraintSet_layout_constraintBottom_creator = 24;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintBottom_toBottomOf}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintBottom_toBottomOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -1695,11 +1695,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.shirwa.rssdemo:layout_constraintBottom_toBottomOf
+          @attr name com.fr0ddy.readless:layout_constraintBottom_toBottomOf
         */
         public static final int ConstraintSet_layout_constraintBottom_toBottomOf = 25;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintBottom_toTopOf}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintBottom_toTopOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -1713,11 +1713,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.shirwa.rssdemo:layout_constraintBottom_toTopOf
+          @attr name com.fr0ddy.readless:layout_constraintBottom_toTopOf
         */
         public static final int ConstraintSet_layout_constraintBottom_toTopOf = 26;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintDimensionRatio}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintDimensionRatio}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -1727,11 +1727,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_constraintDimensionRatio
+          @attr name com.fr0ddy.readless:layout_constraintDimensionRatio
         */
         public static final int ConstraintSet_layout_constraintDimensionRatio = 27;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintEnd_toEndOf}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintEnd_toEndOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -1745,11 +1745,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.shirwa.rssdemo:layout_constraintEnd_toEndOf
+          @attr name com.fr0ddy.readless:layout_constraintEnd_toEndOf
         */
         public static final int ConstraintSet_layout_constraintEnd_toEndOf = 28;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintEnd_toStartOf}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintEnd_toStartOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -1763,11 +1763,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.shirwa.rssdemo:layout_constraintEnd_toStartOf
+          @attr name com.fr0ddy.readless:layout_constraintEnd_toStartOf
         */
         public static final int ConstraintSet_layout_constraintEnd_toStartOf = 29;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintGuide_begin}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintGuide_begin}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -1779,11 +1779,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_constraintGuide_begin
+          @attr name com.fr0ddy.readless:layout_constraintGuide_begin
         */
         public static final int ConstraintSet_layout_constraintGuide_begin = 30;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintGuide_end}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintGuide_end}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -1795,11 +1795,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_constraintGuide_end
+          @attr name com.fr0ddy.readless:layout_constraintGuide_end
         */
         public static final int ConstraintSet_layout_constraintGuide_end = 31;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintGuide_percent}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintGuide_percent}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -1809,11 +1809,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_constraintGuide_percent
+          @attr name com.fr0ddy.readless:layout_constraintGuide_percent
         */
         public static final int ConstraintSet_layout_constraintGuide_percent = 32;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintHeight_default}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintHeight_default}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -1826,11 +1826,11 @@ containing a value of this type.
 <tr><td><code>spread</code></td><td>0</td><td></td></tr>
 <tr><td><code>wrap</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.shirwa.rssdemo:layout_constraintHeight_default
+          @attr name com.fr0ddy.readless:layout_constraintHeight_default
         */
         public static final int ConstraintSet_layout_constraintHeight_default = 33;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintHeight_max}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintHeight_max}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -1842,11 +1842,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_constraintHeight_max
+          @attr name com.fr0ddy.readless:layout_constraintHeight_max
         */
         public static final int ConstraintSet_layout_constraintHeight_max = 34;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintHeight_min}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintHeight_min}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -1858,11 +1858,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_constraintHeight_min
+          @attr name com.fr0ddy.readless:layout_constraintHeight_min
         */
         public static final int ConstraintSet_layout_constraintHeight_min = 35;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintHorizontal_bias}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintHorizontal_bias}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -1872,11 +1872,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_constraintHorizontal_bias
+          @attr name com.fr0ddy.readless:layout_constraintHorizontal_bias
         */
         public static final int ConstraintSet_layout_constraintHorizontal_bias = 36;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintHorizontal_chainStyle}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintHorizontal_chainStyle}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -1890,11 +1890,11 @@ containing a value of this type.
 <tr><td><code>spread_inside</code></td><td>1</td><td></td></tr>
 <tr><td><code>packed</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.shirwa.rssdemo:layout_constraintHorizontal_chainStyle
+          @attr name com.fr0ddy.readless:layout_constraintHorizontal_chainStyle
         */
         public static final int ConstraintSet_layout_constraintHorizontal_chainStyle = 37;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintHorizontal_weight}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintHorizontal_weight}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -1904,11 +1904,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_constraintHorizontal_weight
+          @attr name com.fr0ddy.readless:layout_constraintHorizontal_weight
         */
         public static final int ConstraintSet_layout_constraintHorizontal_weight = 38;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintLeft_creator}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintLeft_creator}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -1918,11 +1918,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_constraintLeft_creator
+          @attr name com.fr0ddy.readless:layout_constraintLeft_creator
         */
         public static final int ConstraintSet_layout_constraintLeft_creator = 39;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintLeft_toLeftOf}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintLeft_toLeftOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -1936,11 +1936,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.shirwa.rssdemo:layout_constraintLeft_toLeftOf
+          @attr name com.fr0ddy.readless:layout_constraintLeft_toLeftOf
         */
         public static final int ConstraintSet_layout_constraintLeft_toLeftOf = 40;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintLeft_toRightOf}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintLeft_toRightOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -1954,11 +1954,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.shirwa.rssdemo:layout_constraintLeft_toRightOf
+          @attr name com.fr0ddy.readless:layout_constraintLeft_toRightOf
         */
         public static final int ConstraintSet_layout_constraintLeft_toRightOf = 41;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintRight_creator}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintRight_creator}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -1968,11 +1968,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_constraintRight_creator
+          @attr name com.fr0ddy.readless:layout_constraintRight_creator
         */
         public static final int ConstraintSet_layout_constraintRight_creator = 42;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintRight_toLeftOf}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintRight_toLeftOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -1986,11 +1986,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.shirwa.rssdemo:layout_constraintRight_toLeftOf
+          @attr name com.fr0ddy.readless:layout_constraintRight_toLeftOf
         */
         public static final int ConstraintSet_layout_constraintRight_toLeftOf = 43;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintRight_toRightOf}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintRight_toRightOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -2004,11 +2004,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.shirwa.rssdemo:layout_constraintRight_toRightOf
+          @attr name com.fr0ddy.readless:layout_constraintRight_toRightOf
         */
         public static final int ConstraintSet_layout_constraintRight_toRightOf = 44;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintStart_toEndOf}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintStart_toEndOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -2022,11 +2022,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.shirwa.rssdemo:layout_constraintStart_toEndOf
+          @attr name com.fr0ddy.readless:layout_constraintStart_toEndOf
         */
         public static final int ConstraintSet_layout_constraintStart_toEndOf = 45;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintStart_toStartOf}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintStart_toStartOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -2040,11 +2040,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.shirwa.rssdemo:layout_constraintStart_toStartOf
+          @attr name com.fr0ddy.readless:layout_constraintStart_toStartOf
         */
         public static final int ConstraintSet_layout_constraintStart_toStartOf = 46;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintTop_creator}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintTop_creator}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -2054,11 +2054,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_constraintTop_creator
+          @attr name com.fr0ddy.readless:layout_constraintTop_creator
         */
         public static final int ConstraintSet_layout_constraintTop_creator = 47;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintTop_toBottomOf}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintTop_toBottomOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -2072,11 +2072,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.shirwa.rssdemo:layout_constraintTop_toBottomOf
+          @attr name com.fr0ddy.readless:layout_constraintTop_toBottomOf
         */
         public static final int ConstraintSet_layout_constraintTop_toBottomOf = 48;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintTop_toTopOf}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintTop_toTopOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -2090,11 +2090,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.shirwa.rssdemo:layout_constraintTop_toTopOf
+          @attr name com.fr0ddy.readless:layout_constraintTop_toTopOf
         */
         public static final int ConstraintSet_layout_constraintTop_toTopOf = 49;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintVertical_bias}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintVertical_bias}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -2104,11 +2104,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_constraintVertical_bias
+          @attr name com.fr0ddy.readless:layout_constraintVertical_bias
         */
         public static final int ConstraintSet_layout_constraintVertical_bias = 50;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintVertical_chainStyle}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintVertical_chainStyle}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -2122,11 +2122,11 @@ containing a value of this type.
 <tr><td><code>spread_inside</code></td><td>1</td><td></td></tr>
 <tr><td><code>packed</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.shirwa.rssdemo:layout_constraintVertical_chainStyle
+          @attr name com.fr0ddy.readless:layout_constraintVertical_chainStyle
         */
         public static final int ConstraintSet_layout_constraintVertical_chainStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintVertical_weight}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintVertical_weight}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -2136,11 +2136,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_constraintVertical_weight
+          @attr name com.fr0ddy.readless:layout_constraintVertical_weight
         */
         public static final int ConstraintSet_layout_constraintVertical_weight = 52;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintWidth_default}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintWidth_default}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -2153,11 +2153,11 @@ containing a value of this type.
 <tr><td><code>spread</code></td><td>0</td><td></td></tr>
 <tr><td><code>wrap</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.shirwa.rssdemo:layout_constraintWidth_default
+          @attr name com.fr0ddy.readless:layout_constraintWidth_default
         */
         public static final int ConstraintSet_layout_constraintWidth_default = 53;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintWidth_max}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintWidth_max}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -2169,11 +2169,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_constraintWidth_max
+          @attr name com.fr0ddy.readless:layout_constraintWidth_max
         */
         public static final int ConstraintSet_layout_constraintWidth_max = 54;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_constraintWidth_min}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_constraintWidth_min}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -2185,11 +2185,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_constraintWidth_min
+          @attr name com.fr0ddy.readless:layout_constraintWidth_min
         */
         public static final int ConstraintSet_layout_constraintWidth_min = 55;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_editor_absoluteX}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_editor_absoluteX}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -2201,11 +2201,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_editor_absoluteX
+          @attr name com.fr0ddy.readless:layout_editor_absoluteX
         */
         public static final int ConstraintSet_layout_editor_absoluteX = 56;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_editor_absoluteY}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_editor_absoluteY}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -2217,11 +2217,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_editor_absoluteY
+          @attr name com.fr0ddy.readless:layout_editor_absoluteY
         */
         public static final int ConstraintSet_layout_editor_absoluteY = 57;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_goneMarginBottom}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_goneMarginBottom}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -2233,11 +2233,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_goneMarginBottom
+          @attr name com.fr0ddy.readless:layout_goneMarginBottom
         */
         public static final int ConstraintSet_layout_goneMarginBottom = 58;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_goneMarginEnd}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_goneMarginEnd}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -2249,11 +2249,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_goneMarginEnd
+          @attr name com.fr0ddy.readless:layout_goneMarginEnd
         */
         public static final int ConstraintSet_layout_goneMarginEnd = 59;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_goneMarginLeft}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_goneMarginLeft}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -2265,11 +2265,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_goneMarginLeft
+          @attr name com.fr0ddy.readless:layout_goneMarginLeft
         */
         public static final int ConstraintSet_layout_goneMarginLeft = 60;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_goneMarginRight}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_goneMarginRight}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -2281,11 +2281,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_goneMarginRight
+          @attr name com.fr0ddy.readless:layout_goneMarginRight
         */
         public static final int ConstraintSet_layout_goneMarginRight = 61;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_goneMarginStart}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_goneMarginStart}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -2297,11 +2297,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_goneMarginStart
+          @attr name com.fr0ddy.readless:layout_goneMarginStart
         */
         public static final int ConstraintSet_layout_goneMarginStart = 62;
         /**
-          <p>This symbol is the offset where the {@link com.shirwa.rssdemo.R.attr#layout_goneMarginTop}
+          <p>This symbol is the offset where the {@link com.fr0ddy.readless.R.attr#layout_goneMarginTop}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -2313,7 +2313,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.shirwa.rssdemo:layout_goneMarginTop
+          @attr name com.fr0ddy.readless:layout_goneMarginTop
         */
         public static final int ConstraintSet_layout_goneMarginTop = 63;
         /** Attributes that can be used with a LinearConstraintLayout.

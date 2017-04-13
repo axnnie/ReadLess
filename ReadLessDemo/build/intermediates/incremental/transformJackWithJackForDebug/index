@@ -10,8 +10,8 @@ f:prebuilt/com/fr0ddy/rssdemo/R$attr.dex
 f:prebuilt/com/fr0ddy/rssdemo/SummaryActivity$1$1.dex
 f:prebuilt/com/fr0ddy/rssdemo/R$string.dex
 f:prebuilt/com/fr0ddy/rssdemo/ArticleActivity.dex
-f:prebuilt/com/fr0ddy/rssdemo/MainActivity$GetRssFeed.dex
 f:prebuilt/com/fr0ddy/rssdemo/BuildConfig.dex
+f:prebuilt/com/fr0ddy/rssdemo/MainActivity$GetRssFeed.dex
 f:prebuilt/com/fr0ddy/rssdemo/R$layout.dex
 f:prebuilt/android/support/constraint/R.dex
 f:prebuilt/android/support/constraint/R$id.dex
