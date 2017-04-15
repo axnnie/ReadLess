@@ -18,6 +18,17 @@ ADDED from C:\Users\Angela\AndroidStudioProjects\SummIt\ReadLessDemo\src\main\An
 uses-sdk
 ADDED from C:\Users\Angela\AndroidStudioProjects\SummIt\ReadLessDemo\src\main\AndroidManifest.xml:7:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Angela\.android\build-cache\9a75014aec9763df8392d7439ef7c9a05c202fbc\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Angela\.android\build-cache\289b535e8d519a66651632e24b6f23e80b8d644d\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Angela\.android\build-cache\1e9b97508d925c483fe0d0eccecca98c06f25384\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Angela\.android\build-cache\4d9054a5597f44657f40e4b441be5686905e6c30\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Angela\.android\build-cache\18583f6910addd1fb61771fc0434f23333dc8cc8\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Angela\.android\build-cache\f2591d83d1cd5ad9da261b6b836d4b71628582bd\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Angela\.android\build-cache\dc8d01082f00f40ee7597f91d2a86b220144b58c\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Angela\.android\build-cache\78370617bd07177f7f8061eb4ce66ac11ea14f98\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Angela\.android\build-cache\23f9b1aa083d7f803dafdb91f22e42f74a77b813\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Angela\.android\build-cache\0e9462c9a1f32af2d097524bff060233ef508f79\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Angela\.android\build-cache\289b535e8d519a66651632e24b6f23e80b8d644d\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from C:\Users\Angela\AndroidStudioProjects\SummIt\ReadLessDemo\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Angela\AndroidStudioProjects\SummIt\ReadLessDemo\src\main\AndroidManifest.xml
@@ -44,6 +55,15 @@ ADDED from C:\Users\Angela\AndroidStudioProjects\SummIt\ReadLessDemo\src\main\An
 application
 ADDED from C:\Users\Angela\AndroidStudioProjects\SummIt\ReadLessDemo\src\main\AndroidManifest.xml:15:5-37:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Angela\.android\build-cache\9a75014aec9763df8392d7439ef7c9a05c202fbc\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Angela\.android\build-cache\289b535e8d519a66651632e24b6f23e80b8d644d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Angela\.android\build-cache\1e9b97508d925c483fe0d0eccecca98c06f25384\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Angela\.android\build-cache\4d9054a5597f44657f40e4b441be5686905e6c30\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Angela\.android\build-cache\18583f6910addd1fb61771fc0434f23333dc8cc8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Angela\.android\build-cache\f2591d83d1cd5ad9da261b6b836d4b71628582bd\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Angela\.android\build-cache\dc8d01082f00f40ee7597f91d2a86b220144b58c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Angela\.android\build-cache\78370617bd07177f7f8061eb4ce66ac11ea14f98\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Angela\.android\build-cache\23f9b1aa083d7f803dafdb91f22e42f74a77b813\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Angela\.android\build-cache\0e9462c9a1f32af2d097524bff060233ef508f79\output\AndroidManifest.xml:29:5-20
 	android:label
 		ADDED from C:\Users\Angela\AndroidStudioProjects\SummIt\ReadLessDemo\src\main\AndroidManifest.xml:17:9-41
 	android:icon
@@ -78,3 +98,17 @@ ADDED from C:\Users\Angela\AndroidStudioProjects\SummIt\ReadLessDemo\src\main\An
 		ADDED from C:\Users\Angela\AndroidStudioProjects\SummIt\ReadLessDemo\src\main\AndroidManifest.xml:35:13-36
 	android:name
 		ADDED from C:\Users\Angela\AndroidStudioProjects\SummIt\ReadLessDemo\src\main\AndroidManifest.xml:34:13-62
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Angela\.android\build-cache\289b535e8d519a66651632e24b6f23e80b8d644d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Angela\.android\build-cache\1e9b97508d925c483fe0d0eccecca98c06f25384\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Angela\.android\build-cache\4d9054a5597f44657f40e4b441be5686905e6c30\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Angela\.android\build-cache\18583f6910addd1fb61771fc0434f23333dc8cc8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Angela\.android\build-cache\f2591d83d1cd5ad9da261b6b836d4b71628582bd\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Angela\.android\build-cache\dc8d01082f00f40ee7597f91d2a86b220144b58c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Angela\.android\build-cache\78370617bd07177f7f8061eb4ce66ac11ea14f98\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Angela\.android\build-cache\23f9b1aa083d7f803dafdb91f22e42f74a77b813\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Angela\.android\build-cache\0e9462c9a1f32af2d097524bff060233ef508f79\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Angela\.android\build-cache\289b535e8d519a66651632e24b6f23e80b8d644d\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Angela\.android\build-cache\289b535e8d519a66651632e24b6f23e80b8d644d\output\AndroidManifest.xml:26:9-47

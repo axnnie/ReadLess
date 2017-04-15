@@ -67,7 +67,6 @@ public class SummaryActivity extends Activity{
                                     try {
                                         TextView myTextView = (TextView) findViewById(R.id.SummaryView);
                                         myTextView.setText(content);
-                                        myTextView.setMovementMethod(ScrollingMovementMethod.getInstance());
                                     } catch (Exception e) {
                                         e.printStackTrace();
                                     }

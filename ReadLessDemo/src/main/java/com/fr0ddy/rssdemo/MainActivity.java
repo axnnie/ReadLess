@@ -20,12 +20,15 @@ public class MainActivity extends Activity {
     private ListView mList;
     ArrayAdapter<String> adapter;
     private List<String> listLink = new ArrayList<String>();
-
+    private ListView mDrawerList;
+    private ArrayAdapter<String> mAdapter;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
+        mDrawerList = (ListView)findViewById(R.id.navList);
+        addDrawerItems();
         new GetRssFeed().execute("http://feeds.foxnews.com/foxnews/latest");
         mList = (ListView) findViewById(R.id.list);
         adapter = new ArrayAdapter<String>(this, R.layout.basic_list_item);
@@ -36,6 +39,11 @@ public class MainActivity extends Activity {
             intent.putExtra("LINK",link);
             startActivity(intent);
         });
+    }
+    private void addDrawerItems() {
+        String[] osArray = { "Android", "iOS", "Windows", "OS X", "Linux" };
+        mAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, osArray);
+        mDrawerList.setAdapter(mAdapter);
     }
     private class GetRssFeed extends AsyncTask<String, Void, Void> {
         @Override

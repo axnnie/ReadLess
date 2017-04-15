@@ -2,6 +2,12 @@
 <items version="2" >
 
     <item
+        jar="C:\Users\Angela\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Angela\AndroidStudioProjects\SummIt\ReadLessDemo\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\support-annotations-25.3.1-d4feff8266eb99f81dc18d91cc5a6a1c8356ca7f.jar" />
+    </item>
+    <item
         jar="C:\Users\Angela\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
         revision="25.0.2"
         sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
@@ -14,16 +20,52 @@
         <dex dex="C:\Users\Angela\AndroidStudioProjects\SummIt\ReadLessDemo\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\okhttp-2.5.0-5118a60b1ef8e29a4311e8446c69a6079c83a39c.jar" />
     </item>
     <item
+        jar="C:\Users\Angela\.android\build-cache\289b535e8d519a66651632e24b6f23e80b8d644d\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Angela\AndroidStudioProjects\SummIt\ReadLessDemo\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-392494abb9b4354da33c5403a791c76175290a03.jar" />
+    </item>
+    <item
+        jar="C:\Users\Angela\AppData\Local\Android\Sdk\platforms\android-25\android.jar"
+        revision="25.0.2"
+        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
+        <dex dex="C:\Users\Angela\AndroidStudioProjects\SummIt\ReadLessDemo\build\intermediates\transforms\preJackRuntimeLibraries\androidTest\debug\jars\8000\40\android-f979119974d3684984abd3310bee4d6f845f41af.jar" />
+    </item>
+    <item
+        jar="C:\Users\Angela\AppData\Local\Android\Sdk\platforms\android-25\optional\org.apache.http.legacy.jar"
+        revision="25.0.2"
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
+        <dex dex="C:\Users\Angela\AndroidStudioProjects\SummIt\ReadLessDemo\build\intermediates\transforms\preJackRuntimeLibraries\androidTest\debug\jars\8000\40\org.apache.http.legacy-2a44ebd26911d9046bb1f49af1bf224774c65208.jar" />
+    </item>
+    <item
+        jar="C:\Users\Angela\.android\build-cache\dc8d01082f00f40ee7597f91d2a86b220144b58c\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Angela\AndroidStudioProjects\SummIt\ReadLessDemo\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-c7325842ad94cab4c9ef0cce4f6c6720d396de83.jar" />
+    </item>
+    <item
+        jar="C:\Users\Angela\.android\build-cache\1e9b97508d925c483fe0d0eccecca98c06f25384\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Angela\AndroidStudioProjects\SummIt\ReadLessDemo\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-d5adb8dec3cfe65eba01ce62a12256ab2b355c72.jar" />
+    </item>
+    <item
         jar="C:\Users\Angela\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
         revision="25.0.2"
         sha1="98476622f10715998eacf9240d6b479f12c66143">
         <dex dex="C:\Users\Angela\AndroidStudioProjects\SummIt\ReadLessDemo\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\okio-1.6.0-3829dad712901dd1b0acbfd809f33b6e05e9f642.jar" />
     </item>
     <item
-        jar="C:\Users\Angela\AppData\Local\Android\Sdk\platforms\android-25\android.jar"
+        jar="C:\Users\Angela\.android\build-cache\0e9462c9a1f32af2d097524bff060233ef508f79\output\jars\classes.jar"
         revision="25.0.2"
-        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
-        <dex dex="C:\Users\Angela\AndroidStudioProjects\SummIt\ReadLessDemo\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\android-f979119974d3684984abd3310bee4d6f845f41af.jar" />
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Angela\AndroidStudioProjects\SummIt\ReadLessDemo\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-7043a3e7f3b73b3a14bb97fbcda9e8dbf498d8f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Angela\.android\build-cache\18583f6910addd1fb61771fc0434f23333dc8cc8\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Angela\AndroidStudioProjects\SummIt\ReadLessDemo\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-c253e0b36125b32eac3f352c0e455b93b56aee29.jar" />
     </item>
     <item
         jar="C:\Users\Angela\AndroidStudioProjects\SummIt\library\build\libs\library.jar"
@@ -32,16 +74,34 @@
         <dex dex="C:\Users\Angela\AndroidStudioProjects\SummIt\ReadLessDemo\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\library-aef8674a86ac9ce58cd911f3221b4d2e3a307537.jar" />
     </item>
     <item
+        jar="C:\Users\Angela\.android\build-cache\f2591d83d1cd5ad9da261b6b836d4b71628582bd\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Angela\AndroidStudioProjects\SummIt\ReadLessDemo\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-9e9a1ddd4878ffae62b7bbae732a987eaeb2b8c5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Angela\.android\build-cache\78370617bd07177f7f8061eb4ce66ac11ea14f98\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Angela\AndroidStudioProjects\SummIt\ReadLessDemo\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-bccba31e06d6e57b81169ee173d7dbebe30c6d0f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Angela\.android\build-cache\23f9b1aa083d7f803dafdb91f22e42f74a77b813\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Angela\AndroidStudioProjects\SummIt\ReadLessDemo\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-1f524783adda6210dc808fc3058d40334ba11098.jar" />
+    </item>
+    <item
         jar="C:\Users\Angela\.android\build-cache\9a75014aec9763df8392d7439ef7c9a05c202fbc\output\jars\classes.jar"
         revision="25.0.2"
         sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
         <dex dex="C:\Users\Angela\AndroidStudioProjects\SummIt\ReadLessDemo\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-d611de5fec9705516970c5042e05c861bd138c38.jar" />
     </item>
     <item
-        jar="C:\Users\Angela\AppData\Local\Android\Sdk\platforms\android-25\optional\org.apache.http.legacy.jar"
+        jar="C:\Users\Angela\.android\build-cache\4d9054a5597f44657f40e4b441be5686905e6c30\output\jars\classes.jar"
         revision="25.0.2"
-        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
-        <dex dex="C:\Users\Angela\AndroidStudioProjects\SummIt\ReadLessDemo\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\org.apache.http.legacy-2a44ebd26911d9046bb1f49af1bf224774c65208.jar" />
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Angela\AndroidStudioProjects\SummIt\ReadLessDemo\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-c877d595cb64e884da502fd9c79b4c8e7374192e.jar" />
     </item>
 
 </items>
