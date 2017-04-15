@@ -1,0 +1,1 @@
+"C:/Users/Angela/AndroidStudioProjects/SummIt/ReadLessDemo/build/generated/source/buildConfig/androidTest/debug/com/shirwa/rssdemo/test/BuildConfig.java"
